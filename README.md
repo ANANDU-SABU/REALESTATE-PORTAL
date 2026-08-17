@@ -98,7 +98,7 @@ screenshots/
 **Project Files / Demo:**
 👉 [View FindNest.com Project](https://drive.google.com/drive/folders/EXAMPLE_FINDNEST_PROJECT_LINK)
 
-> Replace the above with your actual Google Drive link.
+
 
 ---
 
